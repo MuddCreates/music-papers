@@ -89,6 +89,11 @@
 
 
 
+* [RubnerTomasiGuibas00]. *The Earth Mover's Distance as a Metric for
+  Image Retrieval*
+
+
+
 [FooteUchihasi01]: FooteUchihasi01.pdf
 [LiOgihara06]: LiOgihara06.pdf
 [LiOgiharaLi03]: LiOgiharaLi03.pdf
@@ -96,6 +101,7 @@
 [LoganSaloman01-MusicSimilarity]: LoganSaloman01-MusicSimilarity.pdf
 [LoganSalomon01-ContentBased]: LoganSalomon01-ContentBased.pdf
 [PampalkFlexerWidmer05]: PampalkFlexerWidmer05.pdf
+[RubnerTomasiGuibas00]: RubnerTomasiGuibas00.pdf
 [ShaoLiOgihara08]: ShaoLiOgihara08.pdf
 [TzanetakisEsslCook01]: TzanetakisEsslCook01.pdf
 [WangWang14]: WangWang14.pdf
